@@ -99,6 +99,16 @@ PHP (acrónimo recursivo de PHP: Hypertext Preprocessor) es un lenguaje de códi
 
 # S
 
+## SSL/TLS
+
+SSL (Secure Sockets Layer) traducido al español significa Capa de Conexiones Seguras. Es un protocolo que hace uso de certificados digitales para establecer comunicaciones seguras a través de Internet. Recientemente ha sido sustituido por TLS (Transport Layer Security) el cual está basado en SSL y son totalmente compatibles.
+
+Te permite confiar información personal a sitios web, ya que tus datos se ocultan a través de métodos criptográficos mientras navegas en sitios seguros.
+
+Es utilizado ampliamente en bancos, tiendas en línea y cualquier tipo de servicio que requiera el envío de datos personales o contraseñas. No todos los sitios web usan SSL, por eso debes ser cuidadoso.
+
+
+
 # T
 
 # U
