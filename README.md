@@ -44,6 +44,12 @@ Git es un software de control de versiones diseñado por Linus Torvalds, pensand
 
 # J
 
+## Jenkins
+
+Jenkins es un software de Integración continua open source escrito en Java. Está basado en el proyecto Hudson y es, dependiendo de la visión, un fork del proyecto o simplemente un cambio de nombre.
+
+Jenkins proporciona integración continua para el desarrollo de software. Es un sistema corriendo en un servidor que es un contenedor de servlets, como Apache Tomcat. Soporta herramientas de control de versiones como CVS, Subversion, Git, Mercurial, Perforce y Clearcase y puede ejecutar proyectos basados en Apache Ant y Apache Maven, así como scripts de shell y programas batch de Windows. El desarrollador principal es Kohsuke Kawaguchi. Liberado bajo licencia MIT, Jenkins es software libre.
+
 # K
 
 # L
